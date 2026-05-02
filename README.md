@@ -214,3 +214,7 @@ permission to control Keynote.
 This usually means `python-pptx` failed to save, most likely due to a full
 disk or a permissions problem on the output directory. Check that you have
 write access to the output location and that there is sufficient disk space.
+
+## AI Disclosures
+
+This program was written using Claude Sonnet 4.6; any inappropriate use of licensed/copyrighted code is unintentional and will be addressed by the developer upon notification.
